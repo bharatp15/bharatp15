@@ -3,10 +3,10 @@
 
 👨‍💻 I’m currently working on:
 - **Java** and **Spring Boot**
-- **Angular** and **REST API**
+- **REST API** and **Oracle DB**
 - **Microservices**
 
 🌱 I’m currently learning:
 - **Terraform** (Infrastructure as Code)
 - **AWS** (Cloud Services)
-- **Angular** and **React.js** (Frontend Frameworks)
+- **MongoDB** and **React.js**
